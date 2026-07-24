@@ -42,5 +42,25 @@ This project simulates a real-world cyberattack and incident response investigat
 - Threat Hunting & Log Analysis
 - Professional Reporting
 
+ ## 🔐 PGP Public Key
+
+I take secure communication seriously. My PGP public key is available in this repository for anyone who wants to send me encrypted messages or verify my digital signatures.
+
+| Detail | Value |
+| :--- | :--- |
+| **Key Type** | RSA 4096 |
+| **Key ID** | `9C61 2ABB 2594 9F77` |
+| **Fingerprint** | `FF36 1AD7 955C EB91 64D7 0F24 9C61 2ABB 2594 9F77` |
+| **Email** | idowuoluwapelumi021@gmail.com |
+| **File** | `vincentbright_pgp_public_key.asc` |
+
+To import my key:
+
+\`\`\`bash
+gpg --import vincentbright_pgp_public_key.asc
+\`\`\`
+
+Or download it directly from this repository.
+
 ## 📬 Connect with Me
 www.linkedin.com/in/idowu-oluwapelumi-64b976307
